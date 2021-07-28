@@ -1,0 +1,12 @@
+vs code 단축키
+ctrl + , = 설정 
+ctrl 방향키 = 커서를 블럭 단위로 이동함
+ctrl shit k = 행삭제
+alt down = 행 아래
+alt up = 행 위로
+ctrl alt up 또는 down = 커서 위아래로 확장(여러 줄 한 번에 편집) 
+ctrl d = 같은 글자 선택
+ctrl shift l = 모두 선택
+ctrl ] 또는 [ = 들여쓰기 내어쓰기
+ctrl / = 주석
+shift alt a = 다중 주석
