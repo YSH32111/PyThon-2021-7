@@ -1,0 +1,7 @@
+1. cb(change directory) 설정
+wo tab     01 tab
+2. git add .
+
+3. git commit -m "내용입력"
+
+4. git push
